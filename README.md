@@ -9,3 +9,7 @@ shiro
 http://www.sojson.com/shiro
 java获取redis的日志信息和动态监控信息 
 http://z77z.oschina.io/2017/04/04/java获取redis的日志信息和动态监控信息/
+
+java mysql 数据类型对照
+http://www.cnblogs.com/jerrylz/p/5814460.html
+
